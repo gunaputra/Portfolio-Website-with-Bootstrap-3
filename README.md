@@ -1,4 +1,4 @@
-# portfolio-website-with-bootstrap-3
+# Portfolio-Website-with-Bootstrap-3
 Big thanks to Web Programming UNPAS for the tutorial
 Youtube channel: https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg
 part 1: https://www.youtube.com/watch?v=NNW7Tg8CgAQ
